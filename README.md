@@ -39,6 +39,8 @@ python launch.py
 
 ## Usage
 
+- **Loading Data**: Use the top toolbar to load the posegraph file and the other data files/folders. This is the first step to begin visualizing your SLAM data.
+
 - **2D Pose Graph Navigation**: Use the keyboard arrow keys to move along the trajectory in the 2D pose graph widget.
 
 - **3D Interaction**: In the 3D widget, use your mouse to zoom, rotate, and pan across the 3D space.
