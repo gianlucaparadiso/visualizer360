@@ -21,21 +21,21 @@ Ensure you have Python and the necessary Qt5 libraries installed on your system.
 ### Installation
 
 Clone this repository:
-'''
+```
 git clone https://github.com/gianlucaparadiso/visualizer360.git
-'''
+```
 
 ### Launching the Application
 
 1. Navigate to the cloned directory:
-'''
+```
 cd /path/to/folder/visualizer360/code
-'''
+```
 
 2. To start the application, run the following command in your terminal:
-'''
+```
 python launch.py
-'''
+```
 
 ## Usage
 
